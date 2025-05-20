@@ -1,0 +1,12 @@
+[basic]
+# Enable or disable the plugin
+enable = true
+
+# Trigger prefix for the face swap command
+# Example: User sends "换脸" to start the process
+trigger_prefix = "换脸"
+
+# Product serial for BeArt API (if specific to this plugin version/use)
+# Keep this empty if it's globally configured or not needed here.
+# Example: "your_beart_product_serial_if_any"
+beart_product_serial = "7ccd9ec0944184501659484ed36d6550" 
